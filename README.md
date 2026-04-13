@@ -11,7 +11,7 @@ This repository provides a unified framework for predicting paediatric bone shap
 - SD-Partial (shape + density, partial input)
 - SO-Full (shape only, full input)
 - SO-Partial (shape only, partial input)
-- PLSR-based (no imaging, Demographic+bone linear measurements)
+- PLSR-based (no imaging, Demographic+bone measurements)
 - PC-Reconstruction (upper-bound reference)
 
 ## Quick Start
