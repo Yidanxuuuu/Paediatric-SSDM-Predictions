@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+deap
+gias3
+scikit-learn
